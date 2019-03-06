@@ -1,0 +1,19 @@
+,data_title,data_description
+0,inflation_annual_2016,"Inflation, GDP deflator (annual %)"
+1,inflation_annual_10_yr_change,"Inflation, GDP deflator (annual %)"
+2,interest_rates_2016,Real interest rate (%)
+3,interest_rates_10_yr_change,Real interest rate (%)
+4,documents_to_export_2016,Documents to export (number)
+5,documents_to_export_10_yr_change,Documents to export (number)
+6,exports_gs_2016,Exports of goods and services (% of GDP)
+7,exports_gs_10_yr_change,Exports of goods and services (% of GDP)
+8,cost_to_export_2016,Cost to export (US$ per container)
+9,cost_to_export_10_yr_change,Cost to export (US$ per container)
+10,currrency_exchange_2016,"Official exchange rate (LCU per US$, period average)"
+11,currrency_exchange_10_yr_change,"Official exchange rate (LCU per US$, period average)"
+12,ppp_by_gdp_2016,"2005 PPP conversion factor, GDP (LCU per international $)"
+13,ppp_by_gdp_10_yr_change,"2005 PPP conversion factor, GDP (LCU per international $)"
+14,gni_current_us_2016,GNI (current US$)
+15,gni_current_us_10_yr_change,GNI (current US$)
+16,gdp_current_us_2016,GDP (current US$)
+17,gdp_current_us_10_yr_change,GDP (current US$)
